@@ -1,0 +1,17 @@
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\Ex_Logica_Simix.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\Ex_Logica_Simix.frmInicio.resources
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\Ex_Logica_Simix.csproj.GenerateResource.cache
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\Ex_Logica_Simix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\Ex_Logica_Simix.AssemblyInfoInputs.cache
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\Ex_Logica_Simix.AssemblyInfo.cs
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\Ex_Logica_Simix.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\bin\Debug\net6.0-windows\Ex_Logica_Simix.exe
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\bin\Debug\net6.0-windows\Ex_Logica_Simix.deps.json
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\bin\Debug\net6.0-windows\Ex_Logica_Simix.runtimeconfig.json
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\bin\Debug\net6.0-windows\Ex_Logica_Simix.dll
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\bin\Debug\net6.0-windows\Ex_Logica_Simix.pdb
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\Ex_Logica_Simix.dll
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\refint\Ex_Logica_Simix.dll
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\Ex_Logica_Simix.pdb
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\Ex_Logica_Simix.genruntimeconfig.cache
+C:\Users\evert\Documents\Projetos\Ex_Logica_Simix\Ex_Logica_Simix\obj\Debug\net6.0-windows\ref\Ex_Logica_Simix.dll
